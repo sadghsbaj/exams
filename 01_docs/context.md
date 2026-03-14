@@ -8,7 +8,7 @@
 
 ## 2. Prüfungs-Scope (WICHTIG!)
 
-- **IHK:** \* **BEG:** Theorie (Beschaffung, Marketing, Personal).
+- **IHK:** - **BEG:** Theorie (Beschaffung, Marketing, Personal).
     - **KSK:** Rechnen (KLR, Buchführung, Kalkulation).
     - **WiSo:** Sozialkunde & VWL-Basics.
 - **Fachabitur:**
@@ -18,14 +18,14 @@
 ## 3. Projekt-Architektur & Tech Stack
 
 - **Stack:** Bun (Runtime), Svelte 5 (Runes!), UnoCSS (Styling), Phosphor-Svelte Icons.
+- **Datenbank:** `bun:sqlite` kombiniert mit Kysely als typsicherem Query Builder.
 - **UI-Vorgabe:** Clean Light-Mode Design (kein Dark-Mode Support nötig). Absolutes Emoji-Verbot in der UI.
 - **Struktur:**
-    - `/frontend/`: Svelte 5 App.
+    - `/app/`: SvelteKit Fullstack-App.
     - `/docs/`: Wissensdatenbank.
         - `plan.md`: Zeitlicher Ablauf.
         - `methods.md`: Strategien (Active Recall, Spaced Repetition, etc.).
         - `01_beg/` bis `06_deutsch/`: Unterordner mit jeweils einer `topics.md` (Themenliste).
-    - `/backend/`: In Planung (SQLite).
 
 ## 4. Coding-Richtlinien
 
@@ -35,4 +35,4 @@
 
 ## 5. Administration
 
-- Diese Datei (`ai.md`) ist die Single Source of Truth (SSoT) für den Projekt-Kontext.
+- Diese Datei (`context.md`) ist die Single Source of Truth (SSoT) für den Projekt-Kontext.
