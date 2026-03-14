@@ -11,7 +11,7 @@
 ## Phase 2: Prüfungs-Simulation (15.04. – 27.04.) - Urlaubsphase
 
 - **IHK-Prüfungen:** [ ] Alte APs in BEG, KSK und WiSo unter Zeitdruck lösen
-- **Mathe:** [ ] Pensum langsam steigern
+- **Fachabi (Erhaltungsmodus):** [ ] Mathe & Englisch nur beiläufig wiederholen
 
 ## Phase 3: Fachabi-Endspurt (30.04. – Mitte Mai)
 
