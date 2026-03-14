@@ -1,0 +1,25 @@
+{
+	"name": "frontend",
+	"version": "0.0.0",
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^7.0.0",
+		"@tsconfig/svelte": "^5.0.8",
+		"@types/node": "^24.12.0",
+		"@unocss/transformer-directives": "^66.6.6",
+		"phosphor-svelte": "^3.1.0",
+		"svelte": "^5.53.7",
+		"svelte-check": "^4.4.5",
+		"typescript": "~5.9.3",
+		"unocss": "^66.6.6",
+		"unocss-preset-scrollbar-hide": "^1.0.1",
+		"vite": "^8.0.0"
+	},
+	"private": true,
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"check": "svelte-check --tsconfig ./tsconfig.app.json && tsc -p tsconfig.node.json"
+	},
+	"type": "module"
+}
