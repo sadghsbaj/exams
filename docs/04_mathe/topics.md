@@ -1,4 +1,4 @@
-# Mathematik (Fachabitur Wirtschaft) - Themenübersicht
+# Mathematik (Fachabitur) - Themenübersicht
 
 ## 1. Mathematische Grundlagen (Das Basiswissen)
 
@@ -22,9 +22,8 @@
     - Wendepunkte und Sattelpunkte
     - Monotonie und Krümmungsverhalten (Tabelle)
     - Graphen zeichnen und interpretieren
-- **Wirtschaftliche Anwendungen & Optimierung**
-    - Kosten-, Erlös- und Gewinnfunktionen (inkl. Break-Even-Point / Gewinnschwelle)
-    - Optimierungsaufgaben (Extremwertprobleme mit Nebenbedingungen)
+- **Optimierung**
+    - Extremwertprobleme mit Nebenbedingungen
 - **Integralrechnung**
     - Stammfunktion bilden (Aufleiten)
     - Bestimmtes Integral (Fläche zwischen Graph und x-Achse)
@@ -36,9 +35,8 @@
     - LGS mit 3 Variablen aufstellen und lösen
     - Verfahren 1: Gauß-Algorithmus (Hauptfokus)
     - Verfahren 2: Einsetzungs-/Additionsverfahren (Fallback)
-- **Matrizenrechnung (Wirtschaftliche Anwendung)**
+- **Matrizenrechnung**
     - Rechnen mit Matrizen (Addition, Multiplikation)
-    - Mehrstufige Produktionsprozesse (Rohstoff-Zwischenprodukt-Endprodukt)
     - _Hinweis: Ggf. streichen, falls im Lehrplan nicht behandelt._
 
 ## 4. Stochastik (Wahrscheinlichkeitsrechnung)
